@@ -15,5 +15,6 @@ public class MainClass {
 		String empInfo = String.format("Employee details %s is %s", portal.getEmployee().getEmployeeFullName(), 
 				portal.getEmployee().getStatus());
 		System.out.println(empInfo);
+		System.out.println('Micah');
 	}
 }
